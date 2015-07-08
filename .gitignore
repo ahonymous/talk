@@ -10,3 +10,9 @@
 /vendor/
 /bin/
 /composer.phar
+/node_modules/
+/bower_components/
+/web/css/
+/web/fonts/
+/web/js/
+
